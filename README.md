@@ -1,4 +1,5 @@
 # CiudadNuevaComensales
+<img src="https://cdn.discordapp.com/attachments/738119984177479815/742530246020038728/CiudadNuevaComensalesEmpty.JPG" style="max-height:50px;">
 Web app for a students cafeteria.
 The students are able to find their name in a table and select and assign -all by themselves- different statuses for their meals and schedules during the week.
 
