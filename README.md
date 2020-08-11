@@ -21,6 +21,6 @@ Letting people click on their name and opening a bigger, easier to tap modal was
 
 ## Then we had restrictions
 Planning. The kitchen personal need to know with some time in advance how many people they need to prepare food for. Hense, restrictions were applied:
-**Until what time are the students allowed to notify the app if they were (or not) having diner that day.
-**Can they have their lunch to go? That's extra preparation so please notify one day in advance.
-**Someone is coming later for lunch? No problem, but let us know in advance.
+*Until what time are the students allowed to notify the app if they were (or not) having diner that day.
+*Can they have their lunch to go? That's extra preparation so please notify one day in advance.
+*Someone is coming later for lunch? No problem, but let us know in advance.
